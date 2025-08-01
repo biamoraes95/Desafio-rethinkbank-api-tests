@@ -3,6 +3,14 @@
 ## Sobre
 Este repositório contém testes end-to-end automatizados para a API do Rethink Bank, cobrindo toda a jornada do usuário: cadastro, confirmação de e-mail, login, envio de pontos, uso da caixinha, consulta de saldo e exclusão de conta.
 
+## Tecnologias utilizadas
+
+- **Node.js** – Ambiente de execução JavaScript para rodar os testes.
+- **Jest** – Framework de testes para JavaScript.
+- **Supertest** – Biblioteca para testar APIs HTTP.
+- **dotenv** – Carregamento de variáveis de ambiente.
+- **faker-br** – Geração de dados fictícios brasileiros para os testes.
+
 ## Como rodar os testes
 
 1. Instale as dependências:
