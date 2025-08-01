@@ -35,15 +35,14 @@ Este repositório contém testes end-to-end automatizados para a API do Rethink 
 ## Evidências de execução
 
 ```
-PASS  tests/pontos.test.js
-PASS  tests/login.test.js
-PASS  tests/cadastro.test.js
-PASS  tests/caixinha.test.js
-PASS  tests/helloWorld.test.js
-FAIL  tests/saldo.test.js
-FAIL  tests/excluirConta.test.js
-Test Suites: 2 failed, 5 passed, 7 total
-Tests:       2 failed, 13 passed, 15 total
+PASS tests/pontos.test.js
+PASS tests/login.test.js
+PASS tests/cadastro.test.js
+PASS tests/caixinha.test.js
+FAIL tests/saldo.test.js
+FAIL tests/excluirConta.test.js
+Test Suites: 2 failed, 4 passed, 6 total
+Tests: 2 failed, 12 passed, 14 total
 ```
 
 ## Respostas do desafio
